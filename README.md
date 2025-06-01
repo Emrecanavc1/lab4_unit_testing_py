@@ -47,4 +47,4 @@ pytest --cov=src
 
 ## 👤 Author
 
-Your Name – [GitHub](https://github.com/your-username)
+Emre Can Avcı – [GitHub] (https://github.com/Emrecanavc1)
